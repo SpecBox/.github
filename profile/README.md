@@ -1,4 +1,7 @@
-## Hi there 👋
+## SpecBoxとは
+- 昆虫標本データベース管理サービス[WebSpecimanager](https://github.com/fujikawahiroaki/webspecimanager) の後継
+- WebSpecimanagerを根本から再設計し洗練させることが目標
+- 現時点では未完成
 
 <!--
 
